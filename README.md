@@ -5,3 +5,6 @@
 Fatiando a Terra -- https://www.fatiando.org
 
 Leonardo Uida -- https://www.leouieda.com
+
+GEOPIRES NREL --
+https://github.com/NREL/GEOPHIRES-v2
