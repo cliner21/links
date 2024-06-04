@@ -2,6 +2,8 @@
 
 6/24 
 
+thermophysics brine model -- https://github.com/giecli/ThermophysicalBrineModel/tree/main/ThermoFun
+
 Louis Lamarche -- https://github.com/LouisLamarche/Fundamentals-of-Geothermal-Heat-Pump-Systems , book https://www.amazon.com/Fundamentals-Geothermal-Heat-Pump-Systems/dp/3031321758
 
 FGEM -- https://github.com/aljubrmj/FGEM/tree/main
