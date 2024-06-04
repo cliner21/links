@@ -1,7 +1,9 @@
 # links
 
-# 6/24 
+6/24 
+
 FGEM -- https://github.com/aljubrmj/FGEM/tree/main
+
 geothermal tookit -- https://github.com/ICWallis/geothermal-cookbook
 
 Carlos Pocasangre GPPeval -- https://github.com/cpocasangre/gppeval
