@@ -1,5 +1,7 @@
 # links
 
+6/24 geothermal tookit -- https://github.com/ICWallis/geothermal-cookbook
+
 Carlos Pocasangre GPPeval -- https://github.com/cpocasangre/gppeval
 
 2017 U Hawaii python bootcamp -- https://github.com/leouieda/python-hawaii-2017
